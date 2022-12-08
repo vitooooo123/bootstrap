@@ -1,0 +1,369 @@
+@media (max-width:667px){
+    .header-first-h{
+       font-size: 30px;
+    }
+    .header-second-h{
+        font-size: 20px;
+    }
+    .header-p{
+        font-size: 12px;
+    }
+    .header_btn_one{
+        width: 150px;
+        font-size: 11px;
+    }
+    .header_btn_two{
+        width: 120px;
+        font-size: 11px;
+    }
+    .footer_h{
+        font-size: 30px
+    }
+}
+@media (max-width:468px){
+    .header-first-h{
+       font-size: 19px;
+    }
+    .header_btn_one{
+        width: 120px;
+        font-size: 11px;
+    }
+    .header_btn_two{
+        width: 90px;
+        font-size: 10px;
+    }
+                  
+        }
+
+        @media (max-width:307px){
+            .header-first-h{
+                font-size: 14px!important;
+               
+                
+            }
+            .footer_h{
+                font-size: 14px
+            }
+            .footer_p{
+                font-size: 12px
+            }
+        }
+
+   
+
+
+@media (max-width:436px){
+    .header-first-h{
+       font-size: 22px;
+    }
+    .header-second-h{
+        font-size: 15px;
+    }
+    .header-p{
+        font-size: 8px;
+    }
+}
+@media (max-width:300px){
+    .header-first-h{
+       font-size: 17px;
+    }
+    .header_btn_one{
+        width: 80px;
+        font-size: 7px;
+    }
+    .header_btn_two{
+        width: 60px;
+        font-size: 7px;
+  
+    }
+    .footer_street,
+.footer_mail,
+.footer_number{
+    color: white;
+    font-size: 7px;
+    
+}
+   
+}
+@media (max-width:944px){
+    .main{
+        height: 800px;
+    }
+    
+    .logo-staties{
+        flex-wrap: wrap;
+        height: 700px;
+
+    }
+    .four-staties{
+        width: 40%;
+    }
+    .fa-social{
+        font-size: 30px;
+    }
+
+}
+@media (max-width:559px){
+    .four-staties{
+        gap: 30px;
+    }
+    .fa-all{
+        font-size: 45px;
+    }
+    .four-staties-h{
+        font-size: 20px;
+    }
+    .four-staties-p{
+        font-size: 11px;
+    }
+    .footer_h{
+        font-size: 24px
+    }
+    .footer_p{
+        font-size: 15px;
+    }
+    .fa-social{
+        font-size: 20px;
+    }
+}
+@media (max-width:427px){
+    .fa-all{
+        font-size: 40px;
+    }
+    .four-staties-h{
+        font-size: 13px;
+    }
+    .four-staties-p{
+        font-size: 9px;
+    }
+    .footer_h{
+        font-size: 17px
+    }
+    .footer_p{
+        font-size: 13px
+    }
+}
+
+@media (max-width:975px){
+    .section{
+        height: 1200px;
+    }
+    .section_container{
+        height: 1000px;
+        margin-bottom: 300px;
+    }
+    .section_colums{
+        flex-wrap: wrap;
+    }
+    .text_colums{
+        width: 40%;
+    }
+}
+@media (max-width:582px){
+    .colum_h{
+        font-size: 25px;
+       
+        
+    }
+    .colum_h::first-letter{
+        font-size: 45px;
+    }
+    .colum_p{
+        font-size: 13px;
+        text-transform: capitalize;
+        color: rgb(104, 103, 103);
+        margin-top: 25px;
+        
+    }
+    .colum_h_three{
+        color: orange;
+        margin-top: 20px;
+        font-size: 15px;
+    }
+    .text_colums{
+        gap: 30px;
+    }
+    .footer_button{
+        width: 70px;
+        height: 25px;
+    }
+}
+@media (max-width:484px){
+    .colum_h{
+        font-size: 20px;
+       
+        
+    }
+    .colum_h::first-letter{
+        font-size: 30px;
+    }
+    .colum_p{
+        font-size: 13px;
+        text-transform: capitalize;
+        color: rgb(104, 103, 103);
+        margin-top: 25px;
+        
+    }
+    .colum_h_three{
+      
+        font-size: 15px;
+    }
+    .text_colums{
+        height: 290px;
+    }
+    .section{
+        height: 1000px;
+    }
+    .section_container{
+        margin-bottom: 50px;
+        height: 700px;
+    }
+    .colum_h_three{
+        
+        margin-top: 5px;
+        font-size: 12px;
+    }
+    .footer_street,
+.footer_mail,
+.footer_number{
+    color: white;
+    font-size: 13px;
+    
+}
+}
+@media (max-width:355px){
+    .colum_h{
+        font-size: 15px;
+        font-weight: bold;
+        color: rgb(104, 103, 103);
+        text-transform: capitalize;
+        
+    }
+    .colum_h::first-letter{
+        font-size: 20px;
+    }
+    .colum_p{
+        font-size: 10px;
+        text-transform: capitalize;
+        color: rgb(104, 103, 103);
+        margin-top: 25px;
+        
+    }
+    .colum_h_three{
+        
+        font-size: 8px;
+    }
+    .text_colums{
+        height: 200px;
+    }
+    
+}
+@media (max-width:864px){
+    .paragraph_h{
+        font-size: 23px;
+    }
+    .paragraph_p{
+        font-size: 15px;
+    }
+    .footer_button{
+        width: 100px;
+        height: 30px;
+    }
+
+}
+@media (max-width:479px){
+    .paragraph_h{
+        font-size: 18px;
+    }
+    .paragraph_p{
+        font-size: 10px;
+    }
+
+}
+
+@media (max-width:750px){
+    .images_main{
+        width: 100%;
+        height: 750px;
+        
+    }
+    .images_main_container{
+        width: 90%;
+        height: 590px;
+       
+        gap: 20px;
+    }
+    .main_img{
+        width: 40%;
+        height: 180px;
+    
+    }
+}
+@media (max-width:773px){
+    .carousel_img{
+        width: 50px;
+        height: 50px;
+    }
+}
+
+@media (max-width:1153px){
+    .blog_staties_p{
+        font-size: 15px;
+    }
+}
+@media (max-width:1070px){
+    .blog_section{
+        height: 1100px;
+    }
+    .blog_section_container{
+        height: 1050px;
+    }
+    .blog_section_item{
+        width: 40%;
+    }
+}
+@media (max-width:750px){
+    .blog_h{
+        font-size: 20px;
+    }
+    .icon_p{
+        font-size: 14px;
+    }
+    .blog_staties_p{
+        font-size: 14px;
+    }
+    .blog_hh{
+        font-size: 13px;
+    }
+}
+@media (max-width:563px){
+    .blog_section_container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .blog_section_item{
+        height: 300px;
+        width: 80%;
+    }
+    .blog_staties_div{
+        height: 40px;
+        
+
+    }
+    .blog_img{
+        height: 130px;
+    }
+    .blog_h{
+        font-size: 16px;
+    }
+    .icon_p{
+        font-size: 14px;
+    }
+    .blog_staties_p{
+        font-size: 10px;
+    }
+    .blog_hh{
+        font-size: 8px;
+    }
+}
